@@ -1,3 +1,5 @@
+# finding area of shapes
+
 while True:
     print('Enter the shape you want between a circle, rectangle and triangle')
     user_input = input()
