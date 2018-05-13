@@ -1,4 +1,5 @@
 # finding area of shapes
+# coding is super fun
 
 while True:
     print('Enter the shape you want between a circle, rectangle and triangle')
