@@ -2,6 +2,7 @@
 # coding is super fun
 
 while True:
+    print('Hello\n')
     print('Enter the shape you want between a circle, rectangle and triangle')
     user_input = input()
 
